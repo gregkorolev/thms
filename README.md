@@ -2,4 +2,5 @@
 telemetry habitat monitoring system
 
 
-привет, я пишу тут в тестовых целях, учусь :)
+readme-description
+и тут тоже учусь
